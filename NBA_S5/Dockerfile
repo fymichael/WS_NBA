@@ -15,8 +15,6 @@ COPY ./NBA_S5 .
 
 # Compilez l'application en mode de publication
 RUN dotnet build "./NBA_S5/NBA_S5.csproj" -c Release -o /app/build
-COPY NBA_S5/NBA_S5.csproj /kaniko/buildcontext/NBA_S5/
-
 
 # Publiez l'application
 FROM build AS publish
