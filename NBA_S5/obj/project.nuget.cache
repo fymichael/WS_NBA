@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YkxrVjCogqjAf6dGppW75SDMV3MVu10e979JQqCgNpeJaDD7CC8OdIrI4WXOUl+yBxwrpELpsJAniYVkmS5ZUw==",
+  "dgSpecHash": "km5crAhvBx7wlAgEkEjzwK3I6sQKFGMRmiVom+Qnp2AujCUUCW4qY/EwPhsXpi+ddxl2y/45rewscNDVGVYZVA==",
   "success": true,
-  "projectFilePath": "D:\\ITU\\L3\\Mr Rojo\\NBA\\NBA_S5\\NBA_S5.csproj",
+  "projectFilePath": "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5\\NBA_S5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fy Botas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Fy Botas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",

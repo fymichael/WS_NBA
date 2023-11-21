@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NBA_S5.props" />
+</Project>
