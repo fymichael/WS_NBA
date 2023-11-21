@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YkxrVjCogqjAf6dGppW75SDMV3MVu10e979JQqCgNpeJaDD7CC8OdIrI4WXOUl+yBxwrpELpsJAniYVkmS5ZUw==",
+  "success": true,
+  "projectFilePath": "D:\\ITU\\L3\\Mr Rojo\\NBA\\NBA_S5\\NBA_S5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fy Botas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fy Botas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fy Botas\\.nuget\\packages\\npgsql\\8.0.0\\npgsql.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
