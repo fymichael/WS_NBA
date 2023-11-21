@@ -11,7 +11,7 @@ COPY ["NBA_S5/NBA_S5.csproj", "NBA_S5/"]
 RUN dotnet restore "NBA_S5/NBA_S5.csproj"
 
 # Copiez tout le contenu du répertoire actuel dans le conteneur
-COPY . .
+COPY ./NBA_S5 .
 
 # Compilez l'application en mode de publication
 RUN dotnet build "NBA_S5/NBA_S5.csproj" -c Release -o /app/build
