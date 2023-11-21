@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5\\NBA_S5.csproj": {}
+    "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5\\NBA_S5.csproj": {
+    "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5\\NBA_S5.csproj",
+        "projectUniqueName": "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5.csproj",
         "projectName": "NBA_S5",
-        "projectPath": "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5\\NBA_S5.csproj",
+        "projectPath": "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5.csproj",
         "packagesPath": "C:\\Users\\Fy Botas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\NBA_S5\\obj\\",
+        "outputPath": "C:\\Users\\Fy Botas\\Documents\\WS_NBA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fy Botas\\AppData\\Roaming\\NuGet\\NuGet.Config"
